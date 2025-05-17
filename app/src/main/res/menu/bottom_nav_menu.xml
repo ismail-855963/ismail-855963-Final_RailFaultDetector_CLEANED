@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/calibrationFragment" android:icon="@drawable/ic_calibration" android:title="Kalibrasyon"/>
+    <item android:id="@+id/liveGraphFragment" android:icon="@drawable/ic_graph" android:title="Grafik"/>
+    <item android:id="@+id/mapFragment" android:icon="@drawable/ic_map" android:title="Harita"/>
+    <item android:id="@+id/reportFragment" android:icon="@drawable/ic_report" android:title="Rapor"/>
+</menu>

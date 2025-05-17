@@ -1,0 +1,3 @@
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="documents" path="Android/data/com.example.railfalldetector/files/Documents"/>
+</paths>

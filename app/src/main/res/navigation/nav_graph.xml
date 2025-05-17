@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/calibrationFragment">
+
+    <fragment android:id="@+id/calibrationFragment"
+        android:name="com.example.railfalldetector.ui.CalibrationFragment"
+        android:label="Kalibrasyon" />
+    <fragment android:id="@+id/liveGraphFragment"
+        android:name="com.example.railfalldetector.ui.LiveGraphFragment"
+        android:label="Grafik" />
+    <fragment android:id="@+id/mapFragment"
+        android:name="com.example.railfalldetector.ui.MapFragment"
+        android:label="Harita" />
+    <fragment android:id="@+id/reportFragment"
+        android:name="com.example.railfalldetector.ui.ReportFragment"
+        android:label="Rapor" />
+</navigation>

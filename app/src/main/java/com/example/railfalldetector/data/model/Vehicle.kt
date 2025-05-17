@@ -1,0 +1,1 @@
+<Kotlin kodu: Vehicle veri sınıfı>

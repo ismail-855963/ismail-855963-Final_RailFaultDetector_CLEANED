@@ -1,0 +1,1 @@
+<Kotlin kodu: LineStructure veri sınıfı>
